@@ -21,7 +21,7 @@
 
 
 
-  {"coin_name": "Binance USD", "coin_sym": "MATIC", "coin_contract_address": "", "coin_decimal": "", "coin_chain_number": "56", "max_transaction":"", "min_transaction":"", "gas": "0.02","max_gas": "50"},
+  {"coin_name": "Binance USD", "coin_sym": "MATIC", "coin_contract_address": "", "coin_decimal": "", "coin_chain_number": "56", "max_transaction":"", "min_transaction":"", "gas": "0.02","max_gas": "50"}
 
 
 
