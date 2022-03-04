@@ -1,0 +1,31 @@
+[
+  {"coin_name": "Ethereum", "coin_sym": "ETH", "coin_contract_address": "", "coin_decimal": "", "coin_chain_number": "1", "max_transaction":"", "min_transaction":"", "gas": "0.02","max_gas": "0.018"},
+  {"coin_name": "USD Coin", "coin_sym": "USDC", "coin_contract_address": "", "coin_decimal": "", "coin_chain_number": "1", "max_transaction":"", "min_transaction":"", "gas": "0.02","max_gas": "50"},
+  {"coin_name": "Tether USD", "coin_sym": "USDT", "coin_contract_address": "", "coin_decimal": "", "coin_chain_number": "1", "max_transaction":"", "min_transaction":"", "gas": "0.02","max_gas": "50"},
+  {"coin_name": "Tether USD", "coin_sym": "USDT", "coin_contract_address": "", "coin_decimal": "", "coin_chain_number": "1", "max_transaction":"", "min_transaction":"", "gas": "0.02","max_gas": "0.018"},
+
+
+
+
+
+  {"coin_name": "Binance", "coin_sym": "BNB", "coin_contract_address": "", "coin_decimal": "", "coin_chain_number": "56", "max_transaction":"", "min_transaction":"", "gas": "0.02","max_gas": "0.14"},
+  {"coin_name": "Binance USD", "coin_sym": "BUSD", "coin_contract_address": "", "coin_decimal": "", "coin_chain_number": "56", "max_transaction":"", "min_transaction":"", "gas": "0.02","max_gas": "50"},
+  {"coin_name": "USD Coin", "coin_sym": "USDC", "coin_contract_address": "", "coin_decimal": "", "coin_chain_number": "56", "max_transaction":"", "min_transaction":"", "gas": "0.02","max_gas": "0.018"},
+  {"coin_name": "CAKE", "coin_sym": "CAKE", "coin_contract_address": "", "coin_decimal": "", "coin_chain_number": "56", "max_transaction":"", "min_transaction":"", "gas": "0.02","max_gas": "0.018"},
+  {"coin_name": "MATIC", "coin_sym": "MATIC", "coin_contract_address": "", "coin_decimal": "", "coin_chain_number": "56", "max_transaction":"", "min_transaction":"", "gas": "0.02","max_gas": "0.018"},
+  {"coin_name": "MagicInternetMoney", "coin_sym": "MIM", "coin_contract_address": "", "coin_decimal": "", "coin_chain_number": "56", "max_transaction":"", "min_transaction":"", "gas": "0.02","max_gas": "0.018"},
+  {"coin_name": "DaiToken", "coin_sym": "DAI", "coin_contract_address": "", "coin_decimal": "", "coin_chain_number": "56", "max_transaction":"", "min_transaction":"", "gas": "0.02","max_gas": "0.018"},
+  {"coin_name": "BTCB Token", "coin_sym": "BTCB", "coin_contract_address": "", "coin_decimal": "", "coin_chain_number": "56", "max_transaction":"", "min_transaction":"", "gas": "0.02","max_gas": "0.018"},
+
+
+
+
+
+  {"coin_name": "Binance USD", "coin_sym": "MATIC", "coin_contract_address": "", "coin_decimal": "", "coin_chain_number": "56", "max_transaction":"", "min_transaction":"", "gas": "0.02","max_gas": "50"},
+
+
+
+  
+  
+
+]
