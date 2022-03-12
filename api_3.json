@@ -8,6 +8,8 @@
   // Testnet
   
   {"network": "Ropsten Test Network", "network_id": "3", "rpc_url": "https://api.mycryptoapi.com/eth","currency_symbol": "ETH","block_url":"https://etherscan.io"},
-  {"network": "Ropsten Test Network", "network_id": "3", "rpc_url": "https://api.mycryptoapi.com/eth","currency_symbol": "ETH","block_url":"https://etherscan.io"},
-
+  {"network": "Kovan Test Network", "network_id": "43", "rpc_url": "https://api.mycryptoapi.com/eth","currency_symbol": "ETH","block_url":"https://etherscan.io"},
+  {"network": "Rinkerby Test Network", "network_id": "4", "rpc_url": "https://api.mycryptoapi.com/eth","currency_symbol": "ETH","block_url":"https://etherscan.io"},
+  {"network": "Goerli Test Network	", "network_id": "5", "rpc_url": "https://api.mycryptoapi.com/eth","currency_symbol": "ETH","block_url":"https://etherscan.io"}
+  
 ]
