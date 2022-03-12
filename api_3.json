@@ -2,7 +2,7 @@
 
   {"network": "Ethereum Mainnet", "network_id": "1", "rpc_url": "https://api.mycryptoapi.com/eth","currency_symbol": "ETH","block_url":"https://etherscan.io"},
   {"network": "Binance Smart Chain Mainnet", "network_id": "56", "rpc_url": "https://bsc-dataseed1.binance.org:443","currency_symbol": "BNB","block_url":"https://etherscan.io"},
-  {"network": "Polygon Mainnet", "network_id": "137", "rpc_url": "https://rpc-mainnet.maticvigil.com/","currency_symbol": "MATIC","block_url":"https://etherscan.io"}
+  {"network": "Polygon Mainnet", "network_id": "137", "rpc_url": "https://rpc-mainnet.maticvigil.com/","currency_symbol": "MATIC","block_url":"https://etherscan.io"},
   
   
 
@@ -10,6 +10,6 @@
   {"network": "Ropsten Test Network", "network_id": "3", "rpc_url": "https://api.mycryptoapi.com/eth","currency_symbol": "ETH","block_url":"https://etherscan.io"},
   {"network": "Kovan Test Network", "network_id": "43", "rpc_url": "https://api.mycryptoapi.com/eth","currency_symbol": "ETH","block_url":"https://etherscan.io"},
   {"network": "Rinkerby Test Network", "network_id": "4", "rpc_url": "https://api.mycryptoapi.com/eth","currency_symbol": "ETH","block_url":"https://etherscan.io"},
-  {"network": "Goerli Test Network	", "network_id": "5", "rpc_url": "https://api.mycryptoapi.com/eth","currency_symbol": "ETH","block_url":"https://etherscan.io"}
+  {"network": "Goerli Test Network", "network_id": "5", "rpc_url": "https://api.mycryptoapi.com/eth","currency_symbol": "ETH","block_url":"https://etherscan.io"}
   
 ]
