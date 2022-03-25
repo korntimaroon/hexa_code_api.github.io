@@ -1,17 +1,17 @@
 [
 
-  {"network": "Ethereum Mainnet", "network_id": "1", "rpc_url": "https://api.mycryptoapi.com/eth","currency_symbol": "ETH","block_url":"https://etherscan.io"},
-  {"network": "Binance Smart Chain Mainnet", "network_id": "56", "rpc_url": "https://bsc-dataseed1.binance.org:443","currency_symbol": "BNB","block_url":"https://etherscan.io"},
-  {"network": "Polygon Mainnet", "network_id": "137", "rpc_url": "https://rpc-mainnet.maticvigil.com/","currency_symbol": "MATIC","block_url":"https://etherscan.io"},
-  {"network": "Avalanche C-Chain", "network_id": "43114", "rpc_url": "https://api.avax.network/ext/bc/C/rpc","currency_symbol": "AVAX","block_url":"https://snowtrace.io"},
-  {"network": "Arbitrum Mainnet", "network_id": "42161", "rpc_url": "https://arb1.arbitrum.io/rpc","currency_symbol": "ETH","block_url": "https://arbiscan.io/"},
-  {"network": "Arbitrum Mainnet", "network_id": "42161", "rpc_url": "https://arb1.arbitrum.io/rpc","currency_symbol": "ETH","block_url": "https://arbiscan.io/"},
+  {"network": "Ethereum Mainnet", "network_id": "1", "rpc_url": "https://api.mycryptoapi.com/eth","currency_symbol": "ETH","block_url":"https://etherscan.io","network_type": "network"},
+  {"network": "Binance Smart Chain Mainnet", "network_id": "56", "rpc_url": "https://bsc-dataseed1.binance.org:443","currency_symbol": "BNB","block_url":"https://etherscan.io","network_type": "network"},
+  {"network": "Polygon Mainnet", "network_id": "137", "rpc_url": "https://rpc-mainnet.maticvigil.com/","currency_symbol": "MATIC","block_url":"https://etherscan.io","network_type": "network"},
+  {"network": "Avalanche C-Chain", "network_id": "43114", "rpc_url": "https://api.avax.network/ext/bc/C/rpc","currency_symbol": "AVAX","block_url":"https://snowtrace.io","network_type": "network"},
+  {"network": "Arbitrum Mainnet", "network_id": "42161", "rpc_url": "https://arb1.arbitrum.io/rpc","currency_symbol": "ETH","block_url": "https://arbiscan.io/","network_type": "network"},
+  {"network": "Arbitrum Mainnet", "network_id": "42161", "rpc_url": "https://arb1.arbitrum.io/rpc","currency_symbol": "ETH","block_url": "https://arbiscan.io/","network_type": "network"},
   
   
   
-  {"network": "Ropsten Test Network", "network_id": "3", "rpc_url": "https://api.mycryptoapi.com/eth","currency_symbol": "ETH","block_url":"https://etherscan.io"},
-  {"network": "Kovan Test Network", "network_id": "43", "rpc_url": "https://api.mycryptoapi.com/eth","currency_symbol": "ETH","block_url":"https://etherscan.io"},
-  {"network": "Rinkerby Test Network", "network_id": "4", "rpc_url": "https://api.mycryptoapi.com/eth","currency_symbol": "ETH","block_url":"https://etherscan.io"},
-  {"network": "Goerli Test Network", "network_id": "5", "rpc_url": "https://api.mycryptoapi.com/eth","currency_symbol": "ETH","block_url":"https://etherscan.io"}
+  {"network": "Ropsten Test Network", "network_id": "3", "rpc_url": "https://api.mycryptoapi.com/eth","currency_symbol": "ETH","block_url":"https://etherscan.io","network_type": "test"},
+  {"network": "Kovan Test Network", "network_id": "43", "rpc_url": "https://api.mycryptoapi.com/eth","currency_symbol": "ETH","block_url":"https://etherscan.io","network_type": "test"},
+  {"network": "Rinkerby Test Network", "network_id": "4", "rpc_url": "https://api.mycryptoapi.com/eth","currency_symbol": "ETH","block_url":"https://etherscan.io","network_type": "test"},
+  {"network": "Goerli Test Network", "network_id": "5", "rpc_url": "https://api.mycryptoapi.com/eth","currency_symbol": "ETH","block_url":"https://etherscan.io","network_type": "test"}
   
 ]
