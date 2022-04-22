@@ -1,0 +1,5 @@
+[ 
+  {"errorN": 0, "say": "Transaction History Failed, Please use the correct network block explorer", "level": "warn"},
+  {"errorN": 1, "say": "Network RPC Link Failed, Hexa Pocket can't get your balance and the transaction history, Please use the correct network RPC Link", "level": "warn"},
+  {"errorN": 1, "say": "Network RPC Link Failed, Hexa Pocket can't get your balance and the transaction history, Please use the correct network RPC Link", "level": "warn"}
+]
